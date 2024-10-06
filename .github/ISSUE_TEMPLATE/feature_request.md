@@ -4,17 +4,32 @@ about: Suggest an idea for this project
 title: ''
 labels: ''
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### Description:
+<!-- A clear and concise description of the feature being requested. -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+### Current Scenario:
+<!-- Provide details about the current scenario or problem you’re facing that this feature would solve. -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Describe the Solution You'd Like:
+<!-- A clear and concise description of what you want to happen. -->
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Describe Alternatives You've Considered:
+<!-- A clear and concise description of alternative solutions or features you've considered. -->
+
+### Additional Details:
+<!-- Include any additional context or references such as screenshots, documentation, or links. -->
+
+### Time Estimate:
+<!-- Estimate the time needed to implement the requested feature. -->
+
+### Hacktoberfest Submission:
+- [ ] Yes
+- [ ] No
+
+### GSSOC Extended Submission:
+- [ ] Yes
+- [ ] No
+
+> **Note:** Ensure your code aligns with the existing project structure before submitting.
